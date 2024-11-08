@@ -13,7 +13,7 @@ echo $sale->getTotal();
 $onlineSale = new OnlineSale(date("y-m-d"), "debit card");
 // echo $onlineSale->createInvoice();
 // echo $onlineSale->showInfo();
-
+ 
 
 
 class Sale{
