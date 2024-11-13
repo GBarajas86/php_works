@@ -13,7 +13,7 @@
 // If any of the tests fail, click on the failed test to see a detailed error message.
 
 
-$score = 50;
+$score = 85;
 
 if ($score >= 90 && $score <= 100) {
     $letterGrade = 'A';
